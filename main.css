@@ -31,6 +31,10 @@ color: white;
 {
     color: #505050;
 }
+.purple-color
+{
+    color: #51084d;
+}
 #field-span
 {
     color: #51084d;
@@ -47,4 +51,12 @@ color: white;
 .intro-of-fields
 {
     letter-spacing: 1px;
+}
+.orange-color
+{
+    color: orangered;
+}
+.para-line-ht
+{
+    line-height: 26px;
 }
